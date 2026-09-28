@@ -1,0 +1,14 @@
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\bin\Debug\net10.0\MakhanIFP3.exe
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\bin\Debug\net10.0\MakhanIFP3.deps.json
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\bin\Debug\net10.0\MakhanIFP3.runtimeconfig.json
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\bin\Debug\net10.0\MakhanIFP3.dll
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\bin\Debug\net10.0\MakhanIFP3.pdb
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\obj\Debug\net10.0\MakhanIFP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\obj\Debug\net10.0\MakhanIFP3.AssemblyInfoInputs.cache
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\obj\Debug\net10.0\MakhanIFP3.AssemblyInfo.cs
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\obj\Debug\net10.0\MakhanIFP3.csproj.CoreCompileInputs.cache
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\obj\Debug\net10.0\MakhanIFP3.dll
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\obj\Debug\net10.0\refint\MakhanIFP3.dll
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\obj\Debug\net10.0\MakhanIFP3.pdb
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\obj\Debug\net10.0\MakhanIFP3.genruntimeconfig.cache
+C:\Users\Amir\OneDrive\Desktop\Makhan Madiyar IFP3\MakhanIFP3\obj\Debug\net10.0\ref\MakhanIFP3.dll
